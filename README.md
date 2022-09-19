@@ -1,7 +1,7 @@
 # FirstWeekJavaKotlin
 --##FirstHeaderType--
 **###ThirdHeaderType**
-![Image](https://wallpaperaccess.com/mickey-tokyo-revengers)
+![This is an image](https://wallpaperaccess.com/mickey-tokyo-revengers)
 
 
 #include <iostream>
